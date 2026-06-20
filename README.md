@@ -1,1 +1,2 @@
-# my-first-web
+flask==3.0.0
+werkzeug==3.0.1
